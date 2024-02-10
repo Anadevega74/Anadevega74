@@ -5,8 +5,9 @@
 - 🌱 I’m currently learning Fullstack web developer
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me in my email soydevega@gmail.com
-![PORTADA GITHUB](https://github.com/Anadevega74/Anadevega74/assets/151641554/1c805bb4-74d6-44c8-b0b4-400e9e1a3566)
+![Ana Mari Fernández (1)](https://github.com/Anadevega74/Anadevega74/assets/151641554/4a3a1494-6a5f-4cf9-8704-81954562754a)
 ## 🌐 Socials:
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Anadevegactriz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
 
 # 💻 Tech Stack:
