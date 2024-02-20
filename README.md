@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Ana Mari Fernández👋</h1>
 </div>
-<a href="https://ibb.co/JHhrSd4"><img src="https://i.ibb.co/VTKMkNZ/BANNER-GITHUB.png" alt="BANNER-GITHUB" border="0"></a>
+ <a href="https://ibb.co/JHhrSd4"><img src="https://i.ibb.co/VTKMkNZ/BANNER-GITHUB.png" alt="BANNER-GITHUB" border="0"></a>
 
  💫 About Me:
 - 👋 Hi, I’m Ana Mari Fernández Menéndez
@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Fullstack web developer
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me in my email soydevega@gmail.com
-![Ana Mari Fernández (1)](https://github.com/Anadevega74/Anadevega74/assets/151641554/4a3a1494-6a5f-4cf9-8704-81954562754a)
+  
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Anadevegactriz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
