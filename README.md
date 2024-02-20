@@ -1,8 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy Ana Mari Fernández👋</h1>
 </div>
-[<img src="https://ibb.co/znmQNbB">](https://ibb.co/znmQNbB)
-  # 💫 About Me:
+<a href="https://ibb.co/JHhrSd4"><img src="https://i.ibb.co/JHhrSd4/BANNER-GITHUB.png" alt="BANNER-GITHUB" border="0"></a>
+ 💫 About Me:
 - 👋 Hi, I’m Ana Mari Fernández Menéndez
 - 👀 I’m interested in programming courses
 - 🌱 I’m currently learning Fullstack web developer
